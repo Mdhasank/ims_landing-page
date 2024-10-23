@@ -1,0 +1,229 @@
+@media (max-width: 1366px) {
+.banner h4 {font-size: 32px;line-height: 42px;}
+.heading01 h4 {font-size: 32px;}
+.heading02 h4 {font-size: 32px;}
+#ourservices h2 {font-size: 32px;}
+.secion005 h3 {font-size: 32px;margin-bottom: 70px;}
+.wishinbox01 {min-height: 407px;}
+.workteam01 img {width: 100%;}
+}
+
+@media (max-width: 1280px) {
+.workteam01 img {width: 100%;}
+
+}
+
+@media (max-width: 1024px) {
+
+.testislider .owl-prev {margin-left: -38px !important;}
+.testislider .owl-next {margin-right: -38px !important;}
+.margin_same {margin-top: 10%;}
+.brands ul li {margin: 9px 9px;}
+.wishinbox01 {min-height: 548px;}
+.services_box {min-height: 390px;}
+.workteam01 h3 strong {font-size: 32px;}
+.banner {padding: 120px 0 0 0;}
+.bnrform{    margin-bottom: 0px;}
+
+}
+
+@media (max-width: 980px) {
+
+.banner h3 {margin-top: 5px;font-size: 24px;}
+.banner ul li {width: 47%;margin-right: 3%;padding: 20px 5px;min-height: 135px;margin-bottom: 20px;}
+.secion001 {padding: 10px 0px 50px;}
+.heading01 h3 {font-size: 21px;}
+.bnrform {padding: 30px;padding-top: 20px;padding-bottom: 20px;margin-bottom: 40px;margin-right: 0%;}
+.margin_same {margin-top: 32%;}
+.margin_single {margin-top: 32%;}
+.services_box {min-height: 263px;}
+.wishinbox01 {min-height: 314px;}
+.brands ul li {margin: 7px 7px;}
+
+}
+
+@media (max-width: 767px) {
+section.header{ text-align: center;}
+.call-no.text-end {text-align: center;padding: 25px 0;justify-content: center;}
+.banner{text-align: center;padding: 215px 0 0 0;}
+.banner h4 {font-size: 22px;line-height: 32px;}
+.banner h3 {margin-top: 5px;font-size: 18px;}
+.banner ul li {width: 48%;margin: 6px;padding: 20px 5px;min-height: 145px;text-align: center;}
+.banner ul li p {position: unset;bottom: -14px;margin-top: 13px;text-align: center;}
+.banner ul li img {float: none;position: unset;text-align: center;}
+.bnrform {max-width: 100%;text-align: center;margin-right: 0; margin-top: 20px;}
+.heading02 h4 {font-size: 24px;}
+.wishinbox01 {min-height: 368px;}
+.secion005 h3 {font-size: 24px;margin-bottom: 0px;}
+.heading01 h4 {font-size: 24px;}
+.heading01 h3 {font-size: 18px;}
+.testislider .owl-nav {position: unset;margin: 15px auto auto;width: 2%;}
+.workteam01 h3 strong {font-size: 24px;}
+.footer_end {text-align: center;}
+ul.social_link.d-flex {margin: 15px 0 0 0;justify-content: center;}
+p.copy_pra {margin: 0 0 15px 0;color: #fff;}
+.workteam01 h3 {font-size: 20px;}
+#ourservices h2 {font-size: 21px; text-align: center;}
+.wishinbox01 {
+  min-height: auto;
+  margin: 0 15px;
+}
+.wishinbox01 p {
+  font-size: 16px;
+  text-align: center;
+}
+.wishinbox01 h3 {
+  font-size: 18px;
+  text-align: center;
+}
+.owl-carousel .owl-item img {
+  margin: 0 auto 20px;
+}
+.wishinbox01 {
+  padding: 15px;
+  min-height: 396px;
+}
+.services_box {
+  min-height: auto;
+  text-align: center;
+}
+.workteam01 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+a.tdsp {
+  width: 42%;
+  margin: 0 auto;
+}
+
+.big_logo {position: unset;margin-left: 0;transform: none !important;top: -55px;width: 100%;margin: 0 auto;}
+#whychoose ul {display: block;list-style: none;text-align: center;}
+#whychoose ul li {
+  flex: unset;
+  padding: 0 0 0 0;
+  width: 48%;
+  display: inline-block;
+}
+#whychoose ul li p img {margin: 0 auto 20px auto;text-align: center;}
+#whychoose ul li p {margin: 0 8px 14px;font-size: 16px;border: 1px solid #efefef;padding: 15px;vertical-align: top;border-radius: 10px;}
+.margin_same {margin-top: 0;}
+.margin_single {margin-top: 15px;}
+.brands ul {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.brands ul li {
+  margin: 7px 7px;
+  text-align: center;
+}
+.popupform{padding: 0;}
+.brands2 ul li {
+  padding: 4px;
+  width: 44%;
+}
+.author-pic{height: auto; margin: 0 auto;}
+.author-pic2{height: auto; margin: 0 auto;}
+.author-named {
+  width: 100%;
+}
+.author-details {
+  display: unset;
+  text-align: center;
+}
+.author-named2 {
+  width: 100%;
+  text-align: center;
+}
+
+.author-details2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column-reverse;
+}
+.tst_item {
+  margin: 0 0 25px 0;
+}
+.brands2 ul {
+  margin-bottom: 0;
+}
+.affiliations{
+  padding: 30px 0px 30px 0px;
+}
+.address p {
+  font-size: 17px;
+  margin-bottom: 15px;
+  text-align: center;
+  margin-top: 30px;
+}
+.footer_end {
+  margin: 15px 0 0 0;
+}
+.secion005 h3 {
+  font-size: 19px;
+  line-height: 26px;
+}
+
+}
+
+@media (max-width: 480px) {
+.call-no.text-end p {margin: 0;}
+.call-no.text-end {padding: 15px 0;}
+.banner {text-align: center;padding: 185px 0 0 0;}
+.banner h4 {font-size: 22px;line-height: 32px;}
+.banner h3 {margin-top: 5px;font-size: 18px;}
+.banner ul li {width: 46%;margin: 6px;padding: 20px 5px;min-height: 145px;text-align: center;}
+.banner ul li p {position: unset;bottom: -14px;margin-top: 13px;text-align: center;}
+.banner ul li img {float: none;position: unset;text-align: center;}
+.bnrform {margin-bottom: 15px;}
+.brands ul li {width: 48%;margin: 3px 3px;}
+.secion001 {padding: 10px 0px 30px;}
+.secion0003 {padding: 30px 0;}
+.heading02 h4 {font-size: 20px;}
+.wishinbox01 {min-height: auto;}
+.services_box {min-height: auto; text-align: center;}
+.secion005 {padding: 20px 0px;}
+.secion005 h3 {font-size: 22px;margin-bottom: 60px;}
+.big_logo {position: unset;margin-left: 0;transform: none !important;top: -55px;width: 100%;margin: 0 auto;}
+.secion005 h3 {font-size: 19px;margin-bottom: 10px;}
+#whychoose ul {display: block;list-style: none;text-align: center;}
+#whychoose ul li {flex: unset;padding: 0 0 0 0;width: 100%;display: inline-block;}
+.margin_same {margin-top: 0;}
+.margin_single {margin-top: 15px;}
+#whychoose ul li p img {margin: 0 auto 20px auto;text-align: center;}
+#whychoose ul li p {margin: 0 8px 14px;font-size: 16px;border: 1px solid #efefef;padding: 15px;vertical-align: top;border-radius: 10px;}
+.wishinbox01 p {
+  font-size: 14px;
+  text-align: center;
+}
+.wishinbox01 h3 {
+  font-size: 16px;
+  text-align: center;
+}
+.workteam01 h3 strong {
+  font-size: 22px;
+}
+a.tdsp {
+  width: 87%;
+  margin: 0 auto;
+}
+.affiliations {
+  padding: 0px 0px 10px 0px;
+}
+.address p {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+}
+
+@media (max-width: 414px) {
+.banner ul li {width: 46%;}
+.brands ul li {width: 48%;margin: 3px 3px;}
+
+#whychoose ul li p {font-size: 15px;}
+.banner ul li {min-height: 120px;}
+.brands2 ul li {padding: 4px;width: 43%;}
+
+}
